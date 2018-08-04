@@ -5,8 +5,11 @@ Define the screen layout of tkinter with an XML file.
 
 ## Screenshot
 - XML file define.
+
 ![xml file](settings.png)
+
 - Create tkinter widget
+
 ![gui](gui.png)
 
 
