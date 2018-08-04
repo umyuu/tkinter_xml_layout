@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-    AdaptiveThreshold Simulator
+    gui.py
 """
 from copy import deepcopy
 import xml.etree.ElementTree as ET
