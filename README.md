@@ -2,10 +2,13 @@
 Proof of Concept.
 Define the screen layout of tkinter with an XML file.
 
-◇Create tkinter widget
-![gui](gui.png)
-XML file define.
+
+## Screenshot
+- XML file define.
 ![xml file](settings.png)
+- Create tkinter widget
+![gui](gui.png)
+
 
 ## Synopsis
 ```
